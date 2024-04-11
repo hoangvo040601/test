@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76cb23e3.css",
+    "main.js": "/static/js/main.d736069f.js",
+    "static/js/453.6dd030d9.chunk.js": "/static/js/453.6dd030d9.chunk.js",
+    "static/media/pay_2x.jpg": "/static/media/pay_2x.909d710056e4fbc88bb9.jpg",
+    "static/media/KM_2x.jpg": "/static/media/KM_2x.e597688a875662405c1a.jpg",
+    "static/media/Mascot_4x.jpg": "/static/media/Mascot_4x.3d1970b2edfa47ac6096.jpg",
+    "static/media/Master.jpg": "/static/media/Master.8db05f9f817f95d0ef10.jpg",
+    "static/media/rp_2x.jpg": "/static/media/rp_2x.c7041219253462569c27.jpg",
+    "static/media/data_1_2x.jpg": "/static/media/data_1_2x.4c97d8cdf252ee358ea4.jpg",
+    "static/media/img_header.jpg": "/static/media/img_header.96a6dae6fff7874c6c2b.jpg",
+    "static/media/dv_center.png": "/static/media/dv_center.7ecf007d25b2e1511eb3.png",
+    "static/media/Asset_4x.jpg": "/static/media/Asset_4x.eba51a581eeaba8c30c9.jpg",
+    "static/media/pt.png": "/static/media/pt.7e5025c07861e08241bc.png",
+    "static/media/ong_medium.png": "/static/media/ong_medium.362a2003bdc0a7a3ac29.png",
+    "static/media/hv_4x.jpg": "/static/media/hv_4x.e2eb1e77155f4070deb9.jpg",
+    "static/media/Mascot_3x.jpg": "/static/media/Mascot_3x.3020920186f4ea46d666.jpg",
+    "static/media/shinbe.png": "/static/media/shinbe.891ddfe3609849c0e1c1.png",
+    "static/media/background.jpg": "/static/media/background.695e7a029074bd588fe7.jpg",
+    "static/media/oeg.jpg": "/static/media/oeg.e8f4f1b04ef67baac188.jpg",
+    "static/media/Logo_VTC_Game.jpg": "/static/media/Logo_VTC_Game.502eefa17c095f5c1a19.jpg",
+    "static/media/logo_Viresa.jpg": "/static/media/logo_Viresa.0dd8bd1b021213275587.jpg",
+    "static/media/logo-FPT-Polytechnic.jpg": "/static/media/logo-FPT-Polytechnic.9da065f1e833502142ca.jpg",
+    "static/media/Viettel.jpg": "/static/media/Viettel.ab1b75c24f9071b6cb7a.jpg",
+    "static/media/fumeli.png": "/static/media/fumeli.89b906fbc883b203b512.png",
+    "index.html": "/index.html",
+    "main.76cb23e3.css.map": "/static/css/main.76cb23e3.css.map",
+    "main.d736069f.js.map": "/static/js/main.d736069f.js.map",
+    "453.6dd030d9.chunk.js.map": "/static/js/453.6dd030d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76cb23e3.css",
+    "static/js/main.d736069f.js"
+  ]
+}
